@@ -1,0 +1,32 @@
+.index-title {
+  font-size: 100px;
+}
+
+.content {
+  width: calc(100% - 296px);
+  margin-left: auto;
+}
+.card {
+  border-radius: 0;
+}
+.list-group {
+  border-radius: 0;
+}
+.input-group {
+  border-radius: 0;
+  height: 154px;
+}
+
+
+
+
+* {
+  // outline: 1px solid #333333;
+}
+
+.form-label {
+  font-size: 14px;
+}
+.form-control {
+  height: 51px;
+}
